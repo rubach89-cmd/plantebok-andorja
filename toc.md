@@ -1,0 +1,33 @@
+# Innholdsfortegnelse (plan)
+- 00 Frontmatter (tittel, dedikasjon, forord)
+- 01 Introduksjon til Andørja og Igeland
+- 02 Klima og vær (lys, frost, vind, salt)
+- 03 Jord og pH (oppbygging, drenering, kompost)
+- 04 Vind- og saltskjerm (design, tresjikt, busksjikt)
+- 05 Hagedesign og systemer (hevede bed, tunnel, drivhus)
+- 06 Årshjul og kalender (forkultivering, utplanting, høsting)
+- 06b Årshjul – grafisk oversikt (SVG)
+- 07 Gode tips for suksess
+- 08 Vann og næring (drypp, mulch, organisk gjødsel)
+- 09 Integrert plantevern (IPM)
+- 10 Høsting, lagring, fermentering og konservering
+- 11 Oppskrifter og bruk (klassiske og lokale)
+- 12 Belgvekster og korn
+- 13 Rotvekster
+- 14 Brassica-kulturer
+- 15 Bladgrønnsaker
+- 16 Allium-vekster
+- 17 Urter og medisinplanter
+- 18 Bær
+- 20 Trær og busker for nytte og økologi
+- 23 Case-studier: tre hageoppsett for Igeland
+- 24 Kart, mikroklima og plassering
+- 25 Vedlegg A: Klimavurdering for Andørja
+- 26 Vedlegg B: Full måneds-matrise (CSV/Markdown)
+- 27 Vedlegg C: Frøkilder og planteskoler
+- 27b Vedlegg D: Lover, regler og sikkerhet
+- 27c Vedlegg E: Utstyr (nice to have)
+- 28 Ord- og begrepsliste
+- 29 Register
+
+Merk: Frukttrær (eple/pære/plomme) er utelatt.
