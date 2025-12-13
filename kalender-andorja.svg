@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Årshjul for klargjøring og høsting i Andørja">
+  <title>Årshjul Andørja – klargjøring og høsting</title>
+  <style>
+    .label { font-family: Arial, sans-serif; font-size: 12px; fill: #1f2937; }
+    .axis { font-family: Arial, sans-serif; font-size: 12px; fill: #374151; }
+    .barF { fill: #3b82f6; }   /* Forkultivering */
+    .barS { fill: #06b6d4; }   /* Såing */
+    .barU { fill: #22c55e; }   /* Utplanting */
+    .barH { fill: #f59e0b; }   /* Høsting */
+    .grid { stroke: #e5e7eb; stroke-width: 1; }
+    .legend { font-size: 12px; fill: #374151; }
+  </style>
+  <!-- months and grid -->
+  <g transform="translate(180,40)">
+    <text class="axis" x="40"  y="0">Jan</text>
+    <text class="axis" x="120" y="0">Feb</text>
+    <text class="axis" x="200" y="0">Mar</text>
+    <text class="axis" x="280" y="0">Apr</text>
+    <text class="axis" x="360" y="0">Mai</text>
+    <text class="axis" x="440" y="0">Jun</text>
+    <text class="axis" x="520" y="0">Jul</text>
+    <text class="axis" x="600" y="0">Aug</text>
+    <text class="axis" x="680" y="0">Sep</text>
+    <text class="axis" x="760" y="0">Okt</text>
+    <text class="axis" x="840" y="0">Nov</text>
+    <text class="axis" x="920" y="0">Des</text>
+    <g>
+      <line class="grid" x1="0"  y1="10" x2="0"  y2="1100"/>
+      <line class="grid" x1="80" y1="10" x2="80" y2="1100"/>
+      <line class="grid" x1="160" y1="10" x2="160" y2="1100"/>
+      <line class="grid" x1="240" y1="10" x2="240" y2="1100"/>
+      <line class="grid" x1="320" y1="10" x2="320" y2="1100"/>
+      <line class="grid" x1="400" y1="10" x2="400" y2="1100"/>
+      <line class="grid" x1="480" y1="10" x2="480" y2="1100"/>
+      <line class="grid" x1="560" y1="10" x2="560" y2="1100"/>
+      <line class="grid" x1="640" y1="10" x2="640" y2="1100"/>
+      <line class="grid" x1="720" y1="10" x2="720" y2="1100"/>
+      <line class="grid" x1="800" y1="10" x2="800" y2="1100"/>
+      <line class="grid" x1="880" y1="10" x2="880" y2="1100"/>
+      <line class="grid" x1="960" y1="10" x2="960" y2="1100"/>
+    </g>
+  </g>
+  <!-- Legend -->
+  <g transform="translate(180,70)">
+    <rect class="barF" x="0" y="0" width="16" height="12"/><text class="legend" x="22" y="10">Forkultivering (F)</text>
+    <rect class="barS" x="160" y="0" width="16" height="12"/><text class="legend" x="182" y="10">Såing (S)</text>
+    <rect class="barU" x="260" y="0" width="16" height="12"/><text class="legend" x="282" y="10">Utplanting (U)</text>
+    <rect class="barH" x="380" y="0" width="16" height="12"/><text class="legend" x="402" y="10">Høsting (H)</text>
+  </g>
+  <!-- Example row -->
+  <text class="label" x="20" y="120">Potet</text>
+  <g transform="translate(180,110)">
+    <rect class="barF" x="160" y="0" width="80" height="12"/>
+    <rect class="barU" x="320" y="0" width="80" height="12"/>
+    <rect class="barH" x="520" y="0" width="160" height="12"/>
+  </g>
+</svg>
