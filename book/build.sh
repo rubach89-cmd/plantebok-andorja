@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Minimal build for Batch 1 (expand in Batch 2/3)
 COMMON_FILES=(
+  metadata.yaml
   toc.md
+  06-aarsjul-kalender.md
   06b-aarsjul-grafisk.md
+  plants/13-potet.md
+  plants/09-gronnkal.md
+  plants/18-hvitlok.md
 )
 
 # PDF
