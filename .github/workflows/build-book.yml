@@ -1,0 +1,38 @@
+name: Build Plantebok (PDF & ePub)
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and LaTeX (XeLaTeX)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended
+
+      - name: Build book (PDF & ePub)
+        run: |
+          chmod +x book/build.sh
+          cd book
+          ./build.sh
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: Plantebok-Andorja-Igeland.pdf
+          path: Plantebok-Andorja-Igeland.pdf
+          if-no-files-found: warn
+
+      - name: Upload ePub
+        uses: actions/upload-artifact@v4
+        with:
+          name: Plantebok-Andorja-Igeland.epub
+          path: Plantebok-Andorja-Igeland.epub
+          if-no-files-found: warn
