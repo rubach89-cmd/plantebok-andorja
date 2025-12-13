@@ -12,7 +12,7 @@
 **Sider:** 134 / 400 (34% ferdig)  
 **Ord:** ~30 000 / 100 000 (30%)  
 **PDF:** Plantebok-Andorja-Igeland.pdf (134 sider, 370 KB)  
-**Siste commit:** [pending v0.7]
+**Siste commit:** 2845312 (versjon 0.7 publisert)
 
 ---
 
