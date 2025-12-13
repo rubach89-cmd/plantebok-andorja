@@ -26,15 +26,32 @@ COMMON_FILES=(
   28-ordliste.md
   29-register.md
 
-  # Utvalgte planter (kan utvides videre)
-  plants/13-potet.md
-  plants/09-gronnkal.md
-  plants/18-hvitlok.md
+  # Alle plantemonografier (sortert numerisk)
   plants/02-gulrot.md
   plants/06-rodbete.md
+  plants/09-gronnkal.md
+  plants/13-potet.md
+  plants/15-kinakal.md
+  plants/18-hvitlok.md
+  plants/26-bygg.md
+  plants/28-bokhvete.md
+  plants/29-varlok.md
+  plants/30-ruccola.md
   plants/33-dill.md
   plants/35-oregano.md
+  plants/36-mynte.md
+  plants/37-sitronmelisse.md
+  plants/40-karve.md
   plants/41-kvann.md
+  plants/47-rips.md
+  plants/51-tindved.md
+  plants/52-hageblabar.md
+  plants/53-tyttebaer.md
+  plants/60-sotmispel.md
+  plants/66-einer.md
+  plants/69-rogn.md
+  plants/72-lopstikke.md
+  plants/75-blomsterkarse.md
 )
 
 # PDF
