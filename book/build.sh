@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Minimal build for Batch 1 (we will expand in Batch 2/3)
+# Minimal build for Batch 1 (expand in Batch 2/3)
 COMMON_FILES=(
   toc.md
   06b-aarsjul-grafisk.md
