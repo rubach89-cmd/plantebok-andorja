@@ -1,4 +1,31 @@
 # Innholdsfortegnelse (plan)
+- 00 Frontmatter (tittel, dedikasjon, forord)
+- 01 Introduksjon
+- 02 Klima og vær
+- 03 Jord og pH
+- 04 Vind- og saltskjerm
+- 05 Hagedesign og systemer
+- 06 Årshjul og kalender
 - 06b Årshjul – grafisk oversikt (SVG)
-
-Mid­lertidig minimal TOC for første bygg. Full TOC kommer i neste batch.
+- 07 Gode tips
+- 08 Vann og næring
+- 09 Integrert plantevern (IPM)
+- 10 Høsting, lagring, fermentering
+- 11 Oppskrifter
+- 12 Belgvekster og korn
+- 13 Rotvekster
+- 14 Brassica-kulturer
+- 15 Bladgrønnsaker
+- 16 Allium-vekster
+- 17 Urter og medisinplanter
+- 18 Bær
+- 20 Trær og busker
+- 23 Case-studier
+- 24 Kart og mikroklima
+- 25 Vedlegg A: Klimavurdering
+- 26 Vedlegg B: Månedsmatrise
+- 27 Vedlegg C: Frøkilder
+- 27b Vedlegg D: Lover og regler
+- 27c Vedlegg E: Utstyr
+- 28 Ordliste
+- 29 Register
