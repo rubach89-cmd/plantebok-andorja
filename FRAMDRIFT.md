@@ -1,18 +1,18 @@
 # Framdrift – Plantebok Andørja
 
-**Oppdatert:** 13. desember 2024, kl 22:15  
-**Versjon:** 0.6 (110 sider)  
+**Oppdatert:** 13. desember 2025, kl 23:10  
+**Versjon:** 0.7 (ferdig)  
 **Mål:** 400 sider (~100 000 ord)
 
 ---
 
 ## Status akkurat nå
 
-**Versjon:** 0.6 (ferdig)  
-**Sider:** 110 / 400 (28% ferdig)  
-**Ord:** ~24 000 / 100 000 (24%)  
-**PDF:** Plantebok-Andorja-Igeland.pdf (110 sider, 334 KB)  
-**Siste commit:** 8f49309 (versjon 0.6 publisert)
+**Versjon:** 0.7 (ferdig)  
+**Sider:** 134 / 400 (34% ferdig)  
+**Ord:** ~30 000 / 100 000 (30%)  
+**PDF:** Plantebok-Andorja-Igeland.pdf (134 sider, 370 KB)  
+**Siste commit:** [pending v0.7]
 
 ---
 
@@ -106,3 +106,17 @@
 - **Deretter:** Systematisk skriv 10–15 plantemonografier per versjon
 - **Plantemonografier gjenstår:** ~37 stykker (totalt mål: 50+)
 - **Illustrasjoner:** Mangler fortsatt SVG-filer (hevet-bed-snitt.svg, lavtunnel.svg)
+
+### Versjon 0.7 (ferdig) – vedlegg og referansekapitler
+
+**Mål:** 160 sider (40%)  
+**Faktisk:** 134 sider (34%)
+
+- [x] 20-traer-og-busker.md – økologiske funksjoner (~2100 ord)
+- [x] 23-case-studier.md – 4 case-studier fra Andørja (~2500 ord)
+- [x] 24-kart-mikroklima.md – mikroklimaanalyse (~1600 ord)
+- [x] 25-vedlegg-klimavurdering.md – klimadata og statistikk (~850 ord)
+- [x] 27-vedlegg-frokilder.md – frøkilder Norge/Norden (~1300 ord)
+- [x] 27c-vedlegg-utstyr.md – utstyr og leverandører (~1300 ord)
+- [x] **134 sider publisert** (+24 sider fra v0.6)
+
