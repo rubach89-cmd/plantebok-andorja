@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snitt av hevet bed med mulch og drypp">
+  <title>Hevet bed – snitt</title>
+  <style>
+    .label { font-family: Arial, sans-serif; font-size: 12px; fill: #1f2937; }
+    .soil { fill: #a16207; }
+    .box { fill: #9ca3af; }
+    .mulch { fill: #65a30d; fill-opacity: 0.4; }
+    .drip { stroke: #0ea5e9; stroke-width: 3; }
+    .plant { fill: #22c55e; }
+  </style>
+  <rect class="box" x="100" y="120" width="700" height="160"/>
+  <rect class="soil" x="110" y="140" width="680" height="140"/>
+  <rect class="mulch" x="110" y="120" width="680" height="20"/>
+  <line class="drip" x1="120" y1="200" x2="770" y2="200"/>
+  <circle class="plant" cx="200" cy="110" r="20"/>
+  <circle class="plant" cx="350" cy="110" r="20"/>
+  <circle class="plant" cx="500" cy="110" r="20"/>
+  <circle class="plant" cx="650" cy="110" r="20"/>
+  <text class="label" x="120" y="310">Hevet bedramme (tre/stein)</text>
+  <text class="label" x="120" y="330">Mulch (gress/tang/halm)</text>
+  <text class="label" x="350" y="330">Dryppslange under mulch</text>
+  <text class="label" x="650" y="330">Dyp, luftig jord (kompost + biokull)</text>
+</svg>

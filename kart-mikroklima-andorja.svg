@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mikroklima og sjikt for Andørja-hage">
+  <title>Kart: Mikroklima og le for Andørja-hage</title>
+  <style>
+    .label { font-family: Arial, sans-serif; font-size: 14px; fill: #1f2937; }
+    .zone { fill-opacity: 0.18; }
+    .outer { fill: #4F7CAC; }
+    .mid { fill: #7CC47F; }
+    .inner { fill: #FFD166; }
+    .bed { fill: #8D99AE; }
+    .wall { fill: #444; }
+    .arrow { stroke: #6b7280; stroke-width: 2; marker-end: url(#arrowhead); }
+    .legend { font-family: Arial, sans-serif; font-size: 12px; fill: #374151; }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+  <rect class="wall" x="850" y="300" width="200" height="200"/>
+  <text class="label" x="860" y="290">Sør-/vestvegg (varme nisjer)</text>
+  <line class="arrow" x1="100" y1="100" x2="320" y2="220"/><text class="label" x="80" y="80">Hovedvind (NV)</text>
+  <rect class="zone outer" x="350" y="150" width="800" height="500"/>
+  <text class="label" x="360" y="140">Ytre skjerm: selje/gråor/tindved</text>
+  <rect class="zone mid" x="400" y="200" width="700" height="400"/>
+  <text class="label" x="410" y="190">Midtsjikt: aronia, solbær, søtmispel</text>
+  <rect class="zone inner" x="450" y="250" width="600" height="300"/>
+  <text class="label" x="460" y="240">Indre: hevede bed med duk/nett</text>
+  <rect class="bed" x="480" y="280" width="160" height="80"/>
+  <rect class="bed" x="660" y="280" width="160" height="80"/>
+  <rect class="bed" x="840" y="280" width="160" height="80"/>
+  <rect class="bed" x="480" y="380" width="160" height="80"/>
+  <rect class="bed" x="660" y="380" width="160" height="80"/>
+  <rect class="bed" x="840" y="380" width="160" height="80"/>
+  <g transform="translate(60,680)">
+    <rect class="outer" x="0" y="0" width="16" height="16"/><text class="legend" x="22" y="12">Ytre skjerm (vind/salt)</text>
+    <rect class="mid" x="200" y="0" width="16" height="16"/><text class="legend" x="222" y="12">Midtsjikt (bær/hekk)</text>
+    <rect class="inner" x="380" y="0" width="16" height="16"/><text class="legend" x="402" y="12">Indre (hevede bed)</text>
+    <rect class="bed" x="560" y="0" width="16" height="16"/><text class="legend" x="582" y="12">Bed (duk/nett/lavtunnel)</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dryppvanning oppsett med filter og soner">
+  <title>Dryppvanning – oppsett</title>
+  <style>
+    .label { font-family: Arial, sans-serif; font-size: 12px; fill: #1f2937; }
+    .line { stroke: #0ea5e9; stroke-width: 4; }
+    .filter { fill: #9ca3af; }
+    .bed { fill: #e5e7eb; }
+  </style>
+  <rect class="filter" x="80" y="80" width="120" height="60"/>
+  <text class="label" x="80" y="70">Filter + trykkreduksjon</text>
+  <line class="line" x1="200" y1="110" x2="900" y2="110"/>
+  <rect class="bed" x="250" y="160" width="200" height="150"/>
+  <rect class="bed" x="500" y="160" width="200" height="150"/>
+  <rect class="bed" x="750" y="160" width="200" height="150"/>
+  <line class="line" x1="350" y1="160" x2="350" y2="300"/>
+  <line class="line" x1="600" y1="160" x2="600" y2="300"/>
+  <line class="line" x1="850" y1="160" x2="850" y2="300"/>
+  <text class="label" x="250" y="330">Sone 1 – dryppslange under mulch</text>
+  <text class="label" x="500" y="330">Sone 2 – dryppslange under mulch</text>
+  <text class="label" x="750" y="330">Sone 3 – dryppslange under mulch</text>
+</svg>

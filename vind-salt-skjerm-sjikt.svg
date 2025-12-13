@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vind- og saltskjerm sjiktmodell">
+  <title>Vind- og saltskjerm – sjikt</title>
+  <style>
+    .label { font-family: Arial, sans-serif; font-size: 12px; fill: #1f2937; }
+    .outer { fill: #4F7CAC; opacity: 0.25; }
+    .mid { fill: #7CC47F; opacity: 0.25; }
+    .inner { fill: #FFD166; opacity: 0.25; }
+    .arrow { stroke: #6b7280; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#6b7280"/>
+    </marker>
+  </defs>
+  <rect class="outer" x="80" y="80" width="260" height="340"/>
+  <text class="label" x="90" y="70">Ytre sjikt: selje/gråor/tindved</text>
+  <rect class="mid" x="360" y="80" width="260" height="340"/>
+  <text class="label" x="370" y="70">Midtsjikt: aronia/solbær/amelanchier</text>
+  <rect class="inner" x="640" y="80" width="260" height="340"/>
+  <text class="label" x="650" y="70">Indre: hevede bed med duk/nett</text>
+  <line class="arrow" x1="40" y1="150" x2="100" y2="150"/><text class="label" x="20" y="130">Vind/salt</text>
+</svg>
