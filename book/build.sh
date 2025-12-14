@@ -33,7 +33,10 @@ COMMON_FILES=(
   plants/13-potet.md
   plants/14-reddik.md
   plants/15-kinakal.md
+  plants/16-hodekaal.md
+  plants/17-brokkoli.md
   plants/18-hvitlok.md
+  plants/19-blomkaal.md
   plants/26-bygg.md
   plants/28-bokhvete.md
   plants/29-varlok.md
@@ -50,6 +53,8 @@ COMMON_FILES=(
   plants/40-karve.md
   plants/41-kvann.md
   plants/43-basilikum.md
+  plants/44-koriander.md
+  plants/45-agurk.md
   plants/47-rips.md
   plants/48-jordbaer.md
   plants/49-solbaer.md
@@ -57,7 +62,15 @@ COMMON_FILES=(
   plants/51-tindved.md
   plants/52-hageblabar.md
   plants/53-tyttebaer.md
+  plants/54-bringebaer.md
+  plants/55-selleri.md
+  plants/56-squash.md
+  plants/57-eple.md
+  plants/58-paere.md
+  plants/59-plomme.md
   plants/60-sotmispel.md
+  plants/61-aronia.md
+  plants/62-hvitkal.md
   plants/66-einer.md
   plants/69-rogn.md
   plants/72-lopstikke.md

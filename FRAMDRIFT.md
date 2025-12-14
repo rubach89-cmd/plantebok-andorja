@@ -1,18 +1,18 @@
 # Framdrift – Plantebok Andørja
 
 **Oppdatert:** 14. januar 2025  
-**Versjon:** 0.8 (ferdig)  
+**Versjon:** 0.9 (pågår)  
 **Mål:** 400 sider (~100 000 ord)
 
 ---
 
 ## Status akkurat nå
 
-**Versjon:** 0.8 (ferdig)  
-**Sider:** 178 / 400 (44% ferdig)  
-**Ord:** ~40 000 / 100 000 (40%)  
-**PDF:** Plantebok-Andorja-Igeland.pdf (178 sider, 480 KB)  
-**Siste commit:** (versjon 0.8 klar til publisering)
+**Versjon:** 0.9 (pågår)  
+**Sider:** 220 / 400 (55% ferdig)  
+**Ord:** ~52 000 / 100 000 (52%)  
+**PDF:** Plantebok-Andorja-Igeland.pdf (220 sider, 630 KB)  
+**Siste commit:** (versjon 0.9 pågår – 13 nye plantemonografier skrevet)
 
 ---
 
@@ -70,11 +70,31 @@
 - [ ] 28-ordliste.md – ordliste over fagtermer (~1000 ord)
 - [ ] 29-register.md – alfabetisk register (~500 ord + indeks)
 
-**Estimert:** ~3000 ord (ca 12 sider)
+### Versjon 0.9 (pågår) – plantemonografier runde 5
+
+**Mål:** 240 sider (60%)  
+**Nå:** 220 sider (55%)
+
+- [x] 44-koriander.md (~600 ord)
+- [x] 45-agurk.md (~1050 ord)
+- [x] 16-hodekaal.md (~1000 ord)
+- [x] 17-brokkoli.md (~700 ord)
+- [x] 19-blomkaal.md (~700 ord)
+- [x] 54-bringebaer.md (~1000 ord)
+- [x] 55-selleri.md (~700 ord)
+- [x] 56-squash.md (~900 ord)
+- [x] 57-eple.md (~900 ord)
+- [x] 58-paere.md (~700 ord)
+- [x] 59-plomme.md (~750 ord)
+- [x] 61-aronia.md (~750 ord)
+- [x] 62-hvitkal.md (~700 ord)
+
+**Status:** 13 nye plantemonografier fullført (~10 000 ord, +42 sider fra v0.8)  
+**Totalt antall plantemonografier:** 48 stykker
 
 ### Plantemonografier å skrive (runde 5)
-- [ ] Skriv 15 nye plantemonografier (~12 000 ord, ca 50 sider)
-  - Prioritet: hodekål, blomkål, brokkoli, selleri, squash, agurk, koriander, eple, pære, plomme, bringebær, aronia
+- [x] hodekål, blomkål, brokkoli, selleri, agurk, koriander, eple, pære, bringebær
+- [ ] squash, plomme, aronia, flere bær
   
 ---
 
@@ -102,9 +122,9 @@
 | 0.4     | 46    | 12%      | 11 000 | Kapittel 6–7 skrevet                   |
 | 0.5     | 87    | 22%      | 17 000 | Kapittel 8–11 + 12 plantemonografier   |
 | 0.6     | 110   | 28%      | 24 000 | 13 nye plantemonografier               |
-| 0.7     | 160   | 40%      | 37 000 | Vedlegg + flere plantemonografier      |
-| 0.8     | 200   | 50%      | 50 000 | 15 nye plantemonografier               |
-| 0.9     | 300   | 75%      | 75 000 | 30 nye plantemonografier               |
+| 0.7     | 134   | 34%      | 30 000 | Vedlegg + referansekapitler            |
+| 0.8     | 178   | 44%      | 40 000 | 12 plantemonografier (2 utvidet, 10 nye)|
+| 0.9     | 220   | 55%      | 52 000 | 13 nye plantemonografier               |
 | 1.0     | 400   | 100%     | 100 000| Alle monografier + vedlegg + register  |
 
 ---
