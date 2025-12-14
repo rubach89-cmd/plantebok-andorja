@@ -1,18 +1,18 @@
 # Framdrift – Plantebok Andørja
 
-**Oppdatert:** 13. desember 2025, kl 23:10  
-**Versjon:** 0.7 (ferdig)  
+**Oppdatert:** 14. januar 2025  
+**Versjon:** 0.8 (ferdig)  
 **Mål:** 400 sider (~100 000 ord)
 
 ---
 
 ## Status akkurat nå
 
-**Versjon:** 0.7 (ferdig)  
-**Sider:** 134 / 400 (34% ferdig)  
-**Ord:** ~30 000 / 100 000 (30%)  
-**PDF:** Plantebok-Andorja-Igeland.pdf (134 sider, 370 KB)  
-**Siste commit:** 2845312 (versjon 0.7 publisert)
+**Versjon:** 0.8 (ferdig)  
+**Sider:** 178 / 400 (44% ferdig)  
+**Ord:** ~40 000 / 100 000 (40%)  
+**PDF:** Plantebok-Andorja-Igeland.pdf (178 sider, 480 KB)  
+**Siste commit:** (versjon 0.8 klar til publisering)
 
 ---
 
@@ -38,42 +38,51 @@
   - søtmispel (750w), rogn (720w), løpstikke (720w), blomsterkarse (730w)
 - ✅ **110 sider publisert** (+23 sider fra v0.5)
 
+### Versjon 0.7 – referansekapitler og plantemonografier runde 3
+- ✅ Kapittel 20: Trær og busker (2100 ord)
+- ✅ Kapittel 23: Case-studier (2500 ord) – 4 eksempler fra Andørja
+- ✅ Kapittel 24: Kart og mikroklima (1600 ord)
+- ✅ Kapittel 25: Vedlegg klimavurdering (850 ord)
+- ✅ Kapittel 27: Vedlegg frøkilder (1300 ord)
+- ✅ Kapittel 27c: Vedlegg utstyr (1300 ord)
+- ✅ **134 sider publisert** (+24 sider fra v0.6) (commit d2f6d8d)
+
+### Versjon 0.8 – plantemonografier runde 4 (10 nye + 2 utvidede)
+- ✅ Utvid potet: 225 ord → 1100 ord (komplett dyrkingsveiledning)
+- ✅ Utvid kinakål: 90 ord → 1050 ord (komplett dyrkingsveiledning)
+- ✅ 10 nye plantemonografier skrevet (~9000 ord):
+  - **Bladgrønnsaker:** salat (1100w), spinat (1000w)
+  - **Rotgrønnsaker:** purre (1000w), reddik (850w)
+  - **Belgvekster:** erter (1050w)
+  - **Urter:** persille (800w), basilikum (800w)
+  - **Bær:** jordbær (1100w), solbær (1000w), stikkelsbær (900w)
+- ✅ **178 sider publisert** (+44 sider fra v0.7)
+
 ---
 
-## 🔄 Neste steg (Versjon 0.7)
+## 🔄 Neste steg (Versjon 0.9)
 
-**Mål:** 160 sider (40%)
+**Mål:** 240 sider (60%)
 
-### Kapitler å skrive (vedlegg og referanser)
-- [ ] 20-traer-og-busker.md – oversikt over trær/busker (~2000 ord)
-- [ ] 23-case-studier.md – eksempler fra Andørja-gartnere (~2500 ord)
-- [ ] 24-kart-mikroklima.md – mikroklimaanalyse av Igeland (~1500 ord)
-- [ ] 25-vedlegg-klimavurdering.md – klimadata og statistikk (~1000 ord)
+### Kapitler å skrive (vedlegg)
 - [ ] 26-vedlegg-arsjul-matrise.md – årshjul i tabellformat (~500 ord + tabell)
-- [ ] 27-vedlegg-frokilder.md – frøkilder Norge/Norden (~1500 ord)
 - [ ] 27b-vedlegg-lover-og-regler.md – importregler, plantelov (~1000 ord)
-- [ ] 27c-vedlegg-utstyr.md – verktøy, materialer, leverandører (~1500 ord)
 - [ ] 28-ordliste.md – ordliste over fagtermer (~1000 ord)
 - [ ] 29-register.md – alfabetisk register (~500 ord + indeks)
 
-**Estimert:** ~13 000 ord (ca 50 sider)
+**Estimert:** ~3000 ord (ca 12 sider)
 
-### Plantemonografier å utvide (runde 3)
-- [ ] 13-potet.md (225 ord → 700 ord)
-- [ ] 15-kinakal.md (90 ord → 700 ord)
-- [ ] Velg 10 nye plantemonografier å skrive fra null (~7000 ord)
-
+### Plantemonografier å skrive (runde 5)
+- [ ] Skriv 15 nye plantemonografier (~12 000 ord, ca 50 sider)
+  - Prioritet: hodekål, blomkål, brokkoli, selleri, squash, agurk, koriander, eple, pære, plomme, bringebær, aronia
+  
 ---
 
 ## 📅 Langsiktig plan
 
-### Versjon 0.8 (200 sider, 50%)
-- Skriv 15 nye plantemonografier (~10 000 ord)
-- Utvid eksisterende korte monografier
-
-### Versjon 0.9 (300 sider, 75%)
-- Skriv 30 nye plantemonografier (~20 000 ord)
-- Begynn arbeid med illustrasjoner
+### Versjon 0.9 (240 sider, 60%)
+- Skriv 15 nye plantemonografier (~12 000 ord)
+- Fullfør alle vedleggskapitler
 
 ### Versjon 1.0 (400 sider, 100%)
 - Komplett alle 50+ plantemonografier

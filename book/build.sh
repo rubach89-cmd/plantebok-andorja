@@ -31,19 +31,29 @@ COMMON_FILES=(
   plants/06-rodbete.md
   plants/09-gronnkal.md
   plants/13-potet.md
+  plants/14-reddik.md
   plants/15-kinakal.md
   plants/18-hvitlok.md
   plants/26-bygg.md
   plants/28-bokhvete.md
   plants/29-varlok.md
   plants/30-ruccola.md
+  plants/31-salat.md
+  plants/32-spinat.md
   plants/33-dill.md
+  plants/34-purre.md
   plants/35-oregano.md
   plants/36-mynte.md
   plants/37-sitronmelisse.md
+  plants/38-erter.md
+  plants/39-persille.md
   plants/40-karve.md
   plants/41-kvann.md
+  plants/43-basilikum.md
   plants/47-rips.md
+  plants/48-jordbaer.md
+  plants/49-solbaer.md
+  plants/50-stikkelbaer.md
   plants/51-tindved.md
   plants/52-hageblabar.md
   plants/53-tyttebaer.md
