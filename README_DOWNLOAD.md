@@ -1,11 +1,11 @@
 # 📖 Plantebok Andørja - Nedlasting
 
-## Versjon 0.7 (13. desember 2025)
+## Versjon 0.9 (14. januar 2025)
 
-**Status:** 134 sider / 400 sider (34% ferdig)  
-**Ord:** ~30 000 ord  
+**Status:** 220 sider / 400 sider (55% ferdig)  
+**Ord:** ~52 000 ord  
 
-### Innhold (v0.7):
+### Innhold (v0.9):
 
 **Kapitler 1-11:** Grunnleggende dyrking
 - Introduksjon, klima, jord, vind, hagedesign
@@ -20,25 +20,29 @@
 - Frøkilder Norge/Norden
 - Utstyr og leverandører
 
-**Plantemonografier:** 25 stk (600-900 ord hver)
-- Grønnsaker: Gulrot, rødbete, grønnkål, potet, kinakål, hvitløk, løk, bokhvete, bygg
-- Urter: Ruccola, dill, mynte, sitronmelisse, oregano, karve, kvann, løpstikke, blomsterkarse
-- Bær/trær: Rips, hageblåbær, tyttebær, tindved, einer, søtmispel, rogn
+**Plantemonografier:** 48 stk (600-1100 ord hver)
+- **Grønnsaker (23):** Gulrot, rødbete, grønnkål, potet, kinakål, hvitløk, vårløk, bygg, bokhvete, reddik, ruccola, salat, spinat, purre, erter, agurk, hodekål, hvitkål, brokkoli, blomkål, selleri, squash
+- **Urter (10):** Dill, mynte, sitronmelisse, oregano, karve, kvann, persille, basilikum, koriander, blomsterkarse
+- **Bær/frukt (15):** Rips, hageblåbær, tyttebær, jordbær, solbær, stikkelsbær, bringebær, tindved, einer, søtmispel, rogn, løpstikke, eple, pære, plomme, aronia
 
 ### Last ned PDF:
 
-```bash
-# Fra terminalen i VS Code:
-open /workspaces/plantebok-andorja/Plantebok-Andorja-Igeland.pdf
+**Direkte nedlasting:**
+📥 [**Plantebok-Andorja-Igeland.pdf** (220 sider, 630 KB)](https://github.com/rubach89-cmd/plantebok-andorja/raw/main/Plantebok-Andorja-Igeland.pdf)
 
-# Eller kopier til lokal maskin:
-# Høyreklikk på filen i filutforskeren -> Download
+**Fra terminalen i VS Code:**
+```bash
+open /workspaces/plantebok-andorja/Plantebok-Andorja-Igeland.pdf
 ```
 
-### Neste versjon (0.8):
+**Eller kopier til lokal maskin:**
+Høyreklikk på filen i filutforskeren → Download
 
-- Utvid flere plantemonografier (salat, spinat, kål, ...)
-- Mål: 180 sider (45%)
+### Neste versjon (1.0):
+
+- Flere plantemonografier (tomat, paprika, nepe, mais, ...)
+- Komplette vedlegg (årsjul-matrise, ordliste, register)
+- Mål: 400 sider (100%)
 
 ---
 
