@@ -2,8 +2,8 @@
 
 ## Versjon 0.9 (14. januar 2025)
 
-**Status:** 220 sider / 400 sider (55% ferdig)  
-**Ord:** ~52 000 ord  
+**Status:** 240 sider / 400 sider (60% ferdig)  
+**Ord:** ~60 000 ord (estimert)  
 
 ### Innhold (v0.9):
 
@@ -28,7 +28,7 @@
 ### Last ned PDF:
 
 **Direkte nedlasting:**
-📥 [**Plantebok-Andorja-Igeland.pdf** (220 sider, 630 KB)](https://github.com/rubach89-cmd/plantebok-andorja/raw/main/Plantebok-Andorja-Igeland.pdf)
+📥 [**Plantebok-Andorja-Igeland.pdf** (240 sider)](https://github.com/rubach89-cmd/plantebok-andorja/raw/main/Plantebok-Andorja-Igeland.pdf)
 
 **Fra terminalen i VS Code:**
 ```bash

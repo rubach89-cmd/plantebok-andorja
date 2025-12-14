@@ -1,18 +1,18 @@
 # Framdrift – Plantebok Andørja
 
 **Oppdatert:** 14. januar 2025  
-**Versjon:** 0.9 (pågår)  
+**Versjon:** 0.9 (fullført)  
 **Mål:** 400 sider (~100 000 ord)
 
 ---
 
 ## Status akkurat nå
 
-**Versjon:** 0.9 (pågår)  
-**Sider:** 220 / 400 (55% ferdig)  
-**Ord:** ~52 000 / 100 000 (52%)  
-**PDF:** Plantebok-Andorja-Igeland.pdf (220 sider, 630 KB)  
-**Siste commit:** (versjon 0.9 pågår – 13 nye plantemonografier skrevet)
+**Versjon:** 0.9 (fullført)  
+**Sider:** 240 / 400 (60% ferdig)  
+**Ord:** ~60 000 / 100 000 (estimert)  
+**PDF:** Plantebok-Andorja-Igeland.pdf (240 sider)  
+**Siste commit:** v0.9 – alle vedlegg og register lagt til, PDF bygget
 
 ---
 
@@ -65,10 +65,10 @@
 **Mål:** 240 sider (60%)
 
 ### Kapitler å skrive (vedlegg)
-- [ ] 26-vedlegg-arsjul-matrise.md – årshjul i tabellformat (~500 ord + tabell)
-- [ ] 27b-vedlegg-lover-og-regler.md – importregler, plantelov (~1000 ord)
-- [ ] 28-ordliste.md – ordliste over fagtermer (~1000 ord)
-- [ ] 29-register.md – alfabetisk register (~500 ord + indeks)
+- [x] 26-vedlegg-arsjul-matrise.md – årshjul i tabellformat (~500 ord + tabell)
+- [x] 27b-vedlegg-lover-og-regler.md – importregler, plantelov (~1000 ord)
+- [x] 28-ordliste.md – ordliste over fagtermer (~1000 ord)
+- [x] 29-register.md – alfabetisk register (~500 ord + indeks)
 
 ### Versjon 0.9 (pågår) – plantemonografier runde 5
 
