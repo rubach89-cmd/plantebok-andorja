@@ -75,6 +75,20 @@ COMMON_FILES=(
   plants/69-rogn.md
   plants/72-lopstikke.md
   plants/75-blomsterkarse.md
+  plants/76-tomat.md
+  plants/77-paprika.md
+  plants/78-chili.md
+  plants/79-nepe.md
+  plants/80-pastinakk.md
+  plants/81-rosenkal.md
+  plants/82-kalrot.md
+  plants/83-mais.md
+  plants/84-timian.md
+  plants/85-estragon.md
+  plants/86-salvie.md
+  plants/87-kirsebaer.md
+  plants/88-bjornebar.md
+  plants/89-hyllebaer.md
 )
 
 # PDF
